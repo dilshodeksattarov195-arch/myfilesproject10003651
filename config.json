@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerurocess",
+        "uuid": 34074783,
+        "checksum": "ibgko"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
